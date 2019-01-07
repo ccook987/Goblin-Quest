@@ -43,6 +43,8 @@ This application is a text-based roleplaying game. It is a classic, dungeon-craw
 
 ## Setup/Installation Requirements
 
+To view the live site, please visit: https://michaelmeow.github.io/adventure_rpg
+
 * Clone repository from [GitHub](https://github.com/MichaelMeow/adventure_rpg.git) to your computer
 * Open index.html file in your web browser
 
